@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Strike Completed</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+        }
+        .message {
+            padding: 20px;
+            background-color: #fff;
+            border: 2px solid #4CAF50;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+            text-align: center;
+        }
+        h1 {
+            color: #4CAF50;
+        }
+    </style>
+</head>
+<body>
+    <div class="message">
+       <br> <h1>Congratulations!</h1></br>
+        <p><b><h3>Your Snap Strike is complete: 500 💯🔥</b></h3>
+        <p><i>manu chu vadhare bolu chu vadhare bakvas karu chu pn ek tuj che sambhalvavali ane taramaj che tevad sambhlvani 
+        joh atla time ma marathi ky pn bhul thy gy hoy athva toh ava awkwrd words kahi didha hoy toh i m dil thi sorry </p></i>
+        <p><i> bakvas karta karta 500 days thy gya&#128514;kbr j naa rahi ae badhu memories bani gyu k jyre hu tari sathe vat karvanu vicharto
+         ane aje vat karu chu</i> </p>
+         <p><b>kem sehvi ley che mari vatu ne?</p></b>
+         <p><b>And thank you for forgiving my big and small mistakes and for being my friend.</p></b>
+         
+        <h2>       &#128512       </h2>
+<h2>        &nbsp  &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp Nil</h2>
+    </div>
+</body>
+</html>
